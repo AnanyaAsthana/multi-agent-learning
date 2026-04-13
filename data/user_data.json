@@ -1,0 +1,179 @@
+{
+    "history": [
+        {
+            "topic": "session hijacking",
+            "score": 0.3333333333333333
+        },
+        {
+            "topic": "session hijacking",
+            "score": 0.3333333333333333
+        },
+        {
+            "topic": "session hijacking",
+            "score": 0.3333333333333333
+        },
+        {
+            "topic": "session hijacking",
+            "score": 0.3333333333333333
+        },
+        {
+            "topic": "session hijacking",
+            "score": 0.3333333333333333
+        },
+        {
+            "topic": "http",
+            "score": 0.0
+        },
+        {
+            "topic": "http",
+            "score": 0.6666666666666666
+        },
+        {
+            "topic": "xss",
+            "score": 0.3333333333333333
+        },
+        {
+            "topic": "xss",
+            "score": 0.3333333333333333
+        },
+        {
+            "topic": "xss",
+            "score": 0.3333333333333333
+        },
+        {
+            "topic": "xss",
+            "score": 0.0
+        },
+        {
+            "topic": "session",
+            "score": 0.6666666666666666
+        },
+        {
+            "topic": "session ",
+            "score": 0.0
+        },
+        {
+            "topic": "session ",
+            "score": 0.3333333333333333
+        },
+        {
+            "topic": "url rewriting",
+            "score": 0.3333333333333333
+        },
+        {
+            "topic": "cookies",
+            "score": 0.3333333333333333
+        },
+        {
+            "topic": "super cookies",
+            "score": 0.0
+        },
+        {
+            "topic": "xss",
+            "score": 0.3333333333333333
+        },
+        {
+            "topic": "buffer overflow",
+            "score": 1.0
+        },
+        {
+            "topic": "url",
+            "score": 0.0
+        },
+        {
+            "topic": "coordination",
+            "score": 0.0,
+            "difficulty": "hard"
+        },
+        {
+            "topic": "quality management",
+            "concept": "Motivation for Implementing TQM",
+            "score": 0,
+            "difficulty": "hard"
+        },
+        {
+            "topic": "quality management",
+            "concept": "Cost of Poor Quality",
+            "score": 1,
+            "difficulty": "hard"
+        },
+        {
+            "topic": "quality management",
+            "concept": "Definition of Quality",
+            "score": 0,
+            "difficulty": "hard"
+        },
+        {
+            "topic": "productivity",
+            "concept": "Definition of Productivity",
+            "score": 0,
+            "difficulty": "hard"
+        },
+        {
+            "topic": "productivity",
+            "concept": "Consequence of Productivity Improvement",
+            "score": 0,
+            "difficulty": "hard"
+        },
+        {
+            "topic": "productivity",
+            "concept": "Partial Productivity",
+            "score": 1,
+            "difficulty": "hard"
+        },
+        {
+            "topic": "session hijacking",
+            "concept": "Session Hijacking",
+            "score": 0,
+            "difficulty": "hard"
+        },
+        {
+            "topic": "session hijacking",
+            "concept": "Session Management",
+            "score": 0,
+            "difficulty": "hard"
+        },
+        {
+            "topic": "session hijacking",
+            "concept": "Session Hijacking",
+            "score": 0,
+            "difficulty": "hard"
+        },
+        {
+            "topic": "hr diagram",
+            "concept": "Temperature vs Brightness Relationship",
+            "score": 0,
+            "difficulty": "easy"
+        },
+        {
+            "topic": "hr diagram",
+            "concept": "Main Sequence",
+            "score": 0,
+            "difficulty": "easy"
+        },
+        {
+            "topic": "hr diagram",
+            "concept": "Core Activity During Main Sequence",
+            "score": 0,
+            "difficulty": "easy"
+        },
+        {
+            "topic": "session",
+            "concept": "Session",
+            "score": 1,
+            "difficulty": "easy"
+        },
+        {
+            "topic": "session",
+            "concept": "Session",
+            "score": 0,
+            "difficulty": "easy"
+        },
+        {
+            "topic": "session",
+            "concept": "Session",
+            "score": 0,
+            "difficulty": "easy"
+        }
+    ]
+}
